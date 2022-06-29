@@ -1,0 +1,21 @@
+{
+  "patikaProject": {
+    "env": "dev",
+    "account": "433316814029",
+    "region": "eu-central-1",
+    "vpcId": "vpc-02c249bc0b8b59d9e",
+    "availabilityZones": [
+      "eu-central-1a",
+      "eu-central-1b"
+    ],
+    "publicSubnetIds": [
+      "subnet-09e828562acdb9285",
+      "subnet-09bf87e37a672f6e5"
+    ]
+  },
+  "availability-zones:account=433316814029:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ]
+}
